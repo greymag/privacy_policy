@@ -61,4 +61,4 @@ This policy is effective as of 2023-05-04
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at info@orangedog.net.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at support@orangedog.net.
